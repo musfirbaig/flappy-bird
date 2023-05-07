@@ -3,6 +3,7 @@
 
 int main()
 {
+    // added a comment
     // Create the window
     sf::RenderWindow window(sf::VideoMode(800, 600), "Ball Game");
 
